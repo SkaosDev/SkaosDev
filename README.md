@@ -1,12 +1,10 @@
 # 👋 Salut, moi c'est Clément Royer !
 
-### 🧑‍🎓 Étudiant à l'ESILV
-
-Bienvenue sur mon GitHub ! Je suis Clément, étudiant en ingénierie et développeur passionné.
+Bienvenue sur mon GitHub ! Je suis Clément, étudiant à l'ESILV et développeur passionné.
 
 ### 💻 Technologies
 
-- **Langages & Frameworks** : JavaScript, Node.js, Python, C#, HTML/CSS
+- **Langages** : JavaScript, Node.js, Python, C#, HTML/CSS
 
 ### 🌱 Projets sur lesquels j'ai travaillé
 
