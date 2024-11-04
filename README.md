@@ -14,7 +14,7 @@ Bienvenue sur mon GitHub ! Je suis Clément, étudiant à l'ESILV et développeu
 
 ### 🤔 Ce que je fais en ce moment
 
-Je travaille à développer et améliorer Rock's Math, en y ajoutant des fonctionnalités pour rendre le site plus intuitif et amusant. Mon but est de rendre les mathématiques accessibles, captivantes et un peu compétitives !
+Je travaille à développer et améliorer Rock's Math. Mon but est de rendre les mathématiques accessibles, captivantes et un peu compétitives !
 
 ### 📫 Tu veux discuter ?
 
