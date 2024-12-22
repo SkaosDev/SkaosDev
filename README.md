@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Clément Royer !
+# 👋 Salut !
 
 Bienvenue sur mon GitHub ! Je suis Clément, étudiant à l'ESILV et développeur passionné.
 
