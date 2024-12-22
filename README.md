@@ -18,4 +18,4 @@ Je travaille à développer et améliorer Rock's Math. Mon but est de rendre les
 
 ### 📫 Tu veux discuter ?
 
-Alors ajoute moi sur discord --> clement_levrai
+Alors ajoute moi sur discord --> @clement_levrai
