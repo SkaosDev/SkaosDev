@@ -4,7 +4,8 @@ Bienvenue sur mon GitHub ! Je suis Clément, étudiant à l'ESILV et développeu
 
 ### 💻 Technologies
 
-- **Langages** : JavaScript, Node.js, Python, PHP, HTML/CSS
+- **Langages** : React, Node.js, Python, PHP, HTML/CSS
+- **DB** : SQL, MongoDB
 
 ### 🌱 Projets sur lesquels j'ai travaillé
 
