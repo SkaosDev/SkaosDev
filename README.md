@@ -1,7 +1,6 @@
 ## About Me
 
 Hi, I'm Clément, a **passionate full-stack developer** and ESILV student with a strong interest in creating interactive and meaningful web experiences. I love working with modern technologies like React, Node.js, and Python to build scalable, engaging applications.
-
 Right now, I'm focused on developing Rock’s Math, a platform designed to make mathematics more accessible, fun, and even a bit competitive! I’m driven by the idea that learning should be as enjoyable as playing a game.
 
 ## My Skills
