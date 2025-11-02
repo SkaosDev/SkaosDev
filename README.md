@@ -27,6 +27,14 @@ Right now, I'm focused on developing Rock’s Math, a platform designed to make 
 <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"> 
 
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/?username=SkaosDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&cache_seconds=1800">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SkaosDev&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"></td><td width="50%" align="center">
+<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/top-langs/?username=SkaosDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
 ## Connect with me
 
 <div align="left">
@@ -35,11 +43,3 @@ Right now, I'm focused on developing Rock’s Math, a platform designed to make 
   </a>
   <img src="https://img.shields.io/static/v1?message=clement_levrai&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/?username=SkaosDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&cache_seconds=1800">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SkaosDev&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"></td><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/top-langs/?username=SkaosDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
