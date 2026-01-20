@@ -29,11 +29,12 @@ Right now, I'm focused on developing Rock’s Maths, a platform designed to make
 
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/?username=SkaosDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&cache_seconds=1800">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SkaosDev&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"></td><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats-nine-beta-40.vercel.app/api/top-langs/?username=SkaosDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<p align="center">
+<a href="https://github.com/aust-1/github-stats">
+<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+</p>
 
 ## Connect with me
 
