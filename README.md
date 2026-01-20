@@ -3,29 +3,17 @@
 Hi, I'm Clément, a **passionate full-stack developer** and ESILV student with a strong interest in creating interactive and meaningful web experiences. I love working with modern technologies like React, Node.js, and Python to build scalable, engaging applications.
 Right now, I'm focused on developing Rock’s Maths, a platform designed to make mathematics more accessible, fun, and even a bit competitive! I’m driven by the idea that learning should be as enjoyable as playing a game.
 
-## My Skills
+## Languages
+[![Languages](https://skillicons.dev/icons?i=c,cs,java,js,php,py,swift,bash,latex,html,css,svg,regex)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"> 
+## Frameworks & Runtimes
+[![Frameworks & Runtimes](https://skillicons.dev/icons?i=react,bootstrap,electron,nodejs,vite,opencv,discordjs)](https://skillicons.dev)
+
+## DevOps, Cloud & Data
+[![DevOps, Cloud & Data](https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,mongodb,mysql,npm,yarn,gradle)](https://skillicons.dev)
+
+## Tools, OS & Design
+[![Tools, OS & Design](https://skillicons.dev/icons?i=androidstudio,idea,vscode,vim,eclipse,phpstorm,pycharm,webstorm,rider,linux,arch,debian,ubuntu,windows,apple,raspberrypi,notion,obsidian,discord,codepen,stackoverflow,xd,pr,ps,ae,wordpress)](https://skillicons.dev)
 
 ## GitHub Stats
 
