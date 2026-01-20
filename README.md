@@ -3,6 +3,15 @@
 Hi, I'm Clément, a **passionate full-stack developer** and ESILV student with a strong interest in creating interactive and meaningful web experiences. I love working with modern technologies like React, Node.js, and Python to build scalable, engaging applications.
 Right now, I'm focused on developing Rock’s Maths, a platform designed to make mathematics more accessible, fun, and even a bit competitive! I’m driven by the idea that learning should be as enjoyable as playing a game.
 
+## GitHub Stats
+
+<p align="center">
+<a href="https://github.com/aust-1/github-stats">
+<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+</p>
+
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=c,cs,java,js,php,py,swift,bash,latex,html,css,svg,regex)](https://skillicons.dev)
 
@@ -14,15 +23,6 @@ Right now, I'm focused on developing Rock’s Maths, a platform designed to make
 
 ## Tools, OS & Design
 [![Tools, OS & Design](https://skillicons.dev/icons?i=androidstudio,idea,vscode,vim,eclipse,phpstorm,pycharm,webstorm,rider,linux,arch,debian,ubuntu,windows,apple,raspberrypi,notion,obsidian,discord,codepen,stackoverflow,xd,pr,ps,ae,wordpress)](https://skillicons.dev)
-
-## GitHub Stats
-
-<p align="center">
-<a href="https://github.com/aust-1/github-stats">
-<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/SkaosDev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-</p>
 
 ## Connect with me
 
