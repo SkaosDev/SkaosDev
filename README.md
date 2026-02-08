@@ -6,7 +6,7 @@ Right now, I'm focused on developing Rock’s Maths, a platform designed to make
 ## GitHub Stats
 
 <p align="center">
-<a href="https://github.com/aust-1/github-stats">
+<a href="https://github.com/SkaosDev/github-stats">
 <img src="https://github.com/SkaosDev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/SkaosDev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
