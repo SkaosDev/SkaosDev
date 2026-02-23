@@ -13,16 +13,16 @@ Right now, I'm focused on developing Rock’s Maths, a platform designed to make
 </p>
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=c,cs,java,js,php,py,swift,bash,latex,html,css,svg,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,bash,latex,html,css,svg)](https://skillicons.dev)
 
 ## Frameworks & Runtimes
 [![Frameworks & Runtimes](https://skillicons.dev/icons?i=react,bootstrap,electron,nodejs,vite,opencv,discordjs)](https://skillicons.dev)
 
 ## DevOps, Cloud & Data
-[![DevOps, Cloud & Data](https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,mongodb,mysql,npm,yarn,gradle)](https://skillicons.dev)
+[![DevOps, Cloud & Data](https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,mongodb,mysql,npm,yarn)](https://skillicons.dev)
 
 ## Tools, OS & Design
-[![Tools, OS & Design](https://skillicons.dev/icons?i=androidstudio,idea,vscode,vim,eclipse,phpstorm,pycharm,webstorm,rider,linux,arch,debian,ubuntu,windows,apple,raspberrypi,notion,obsidian,discord,codepen,stackoverflow,xd,pr,ps,ae,wordpress)](https://skillicons.dev)
+[![Tools, OS & Design](https://skillicons.dev/icons?i=androidstudio,idea,vscode,vim,phpstorm,pycharm,webstorm,rider,linux,arch,debian,ubuntu,windows,apple,raspberrypi,notion,obsidian,discord,codepen,stackoverflow,figma,pr,ps,ae,wordpress)](https://skillicons.dev)
 
 ## Connect with me
 
